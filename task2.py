@@ -1,5 +1,3 @@
-#Do Not use Ctrl+A to select code. Only copy the code below this line.
-#------------------------------------------------------------------------------------------------
 # Week 1: Chores and first purchase
 allowance += 4
 allowance += 10
