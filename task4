@@ -30,7 +30,7 @@ else:
 # Snippet 5:
 distance = 50
 time = 2
-speed = distance / time
+speed = distance/time
 print(f"Speed: {speed} mph")
 
 
